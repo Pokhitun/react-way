@@ -1,11 +1,14 @@
 .nav{
     grid-area:  n;
-    background-color: greenyellow;
+    background-color: orange;
    }
    ul li {
     list-style: none;
   }
   
 .item{
-    color: white;
+    color: gray;
+}
+.item:hover{
+  color:white;
 }
