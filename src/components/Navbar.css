@@ -1,0 +1,11 @@
+.nav{
+    grid-area:  n;
+    background-color: greenyellow;
+   }
+   ul li {
+    list-style: none;
+  }
+  
+.item{
+    color: white;
+}
